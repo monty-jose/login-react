@@ -1,0 +1,46 @@
+#navbar-menu{
+    text-align: center;
+    margin-bottom:1%;
+    color:#fff;
+    background:#282726 !important;
+    /* box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19); */
+    font-size: 16px;
+    padding-top: 0%;
+    padding-right: 3%;
+    padding-bottom: 0%;
+    padding-left: 2%;
+}
+.nav-item {
+    margin-left: 0% !important;
+    margin-right: 2% !important;
+}
+/* cambiamos el style del menu cuando */
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color: rgb(255, 255, 255); 
+}
+.navbar-light .navbar-brand {
+    color: rgba(243, 237, 237, 0.9) !important;
+}
+.navbar-nav-name {
+    color:#fff !important;
+    padding-top: 12px;
+    padding-bottom: .3125rem;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(243, 237, 237, 0.9) !important;
+}
+
+.logout {
+    width: 35px;
+    height: 35px;}
+
+.logo {
+    width: 24px;
+    height: 24px;
+}
+
+.navbar-brand {        
+    font-size: 1.75rem !important;        
+}
+/* fin style menu */
